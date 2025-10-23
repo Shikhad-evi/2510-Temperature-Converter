@@ -19,7 +19,6 @@ function describeTemperature(fahrenheit) {
         return "very hot";
     }
 }
-
 // Main program
 function main() {
     // Prompt user for temperature in Fahrenheit
