@@ -39,9 +39,7 @@ function main() {
     // Get temperature description
     const description = describeTemperature(fahrenheit);
     
-    // Display result to user
+    // Display result to user 
     alert(`${fahrenheit}°F is ${celsius.toFixed(1)}°C, which feels ${description}.`);
 }
-
-// Run the program
 main();
